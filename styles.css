@@ -24,7 +24,7 @@ header>h1{
 	display:flex;
 	justify-content:space-around;
 }
-.card-1{
+.latest-news-section{
 	background-color:white;
 	height:130px;
 	width:250px;
@@ -33,13 +33,13 @@ header>h1{
 	margin:10px;
 	
 }
-.card-1>p{
+.latest-news-section>p{
 	font-weight:800;
 	font-size:20px;
 	margin:10px;
 	
 }
-.card-1>ul>li{
+.latest-news-section>ul>li{
 	font-weight:500;
 }
 .card-2{
@@ -52,7 +52,7 @@ header>h1{
 	margin:10px;
 	
 }
-.card-3{
+.pictorial-news-section{
 	background-color:white;
 	height:600px;
 	width:250px;
@@ -60,7 +60,7 @@ header>h1{
 	border-radius:20px;
 	text-align:center;
 }
-.card-3>img{
+.pictorial-news-section>img{
 	padding:0px 0px 10px;
 	width:250px;
 }
